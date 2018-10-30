@@ -2,4 +2,7 @@ KJKDNSCKNSK
 jadjknsdjsbvdckdfjkdbfjdkb
 
 jhkjdshfksdnc
-Kamalakar
+<<<<<<< HEAD  
+=======
+kamalakar
+>>>>>>> very-bad
